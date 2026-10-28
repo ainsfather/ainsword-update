@@ -1,18 +1,16 @@
 {
  "app": "com.ainsword.app",
- "versionName": "1.4.0",
- "versionCode": 14,
+ "versionName": "1.4.1",
+ "versionCode": 15,
  "date": "2026-10-28",
  "notes": [
-  "앱 안에서 업데이트할 수 있어요. 새 버전이 나오면 홈 화면 위와 설정 › 앱 정보에 알림이 뜨고, 누르면 받아서 설치 화면까지 열어요 (설치 파일을 휴대폰에 따로 옮기지 않아도 돼요)",
-  "업데이트해도 단어장·학습 기록·시험 기록·스티커·쿠폰·설정은 그대로 남아요. 받기 전에 휴대폰 ‘다운로드/AinsWord’ 폴더에 백업 파일도 먼저 만들어요",
-  "처음 한 번은 ‘이 출처 허용’(앱 설치 허용)을 켜야 해요. 앱이 차례대로 안내해요"
+  "앱 안 업데이트를 시험해 보는 버전이에요. 바뀐 기능은 없어요 — 이 버전으로 바뀌었으면 버튼 업데이트가 잘 되는 거예요"
  ],
- "file": "AinsWord-1.4.0.awu",
- "size": 1849006,
- "sha256": "075bd457c203673fdc6ca8c00ff25ccaafec9cb869f43ebefa6161d5d33b2b34",
- "apkSize": 1848974,
- "apkSha256": "e61ad5efb565f95aeb955c91284547be2a73f2edd3dce05fb28c406b64cdc80f",
+ "file": "AinsWord-1.4.1.awu",
+ "size": 1849078,
+ "sha256": "462bdddc1d10fe41948d5a818fa51f57537601a224abfa13a502ad34f6ca8eee",
+ "apkSize": 1849046,
+ "apkSha256": "9b908d5d1b4a4cf7c9d582edf373f74414b685f201e9bfb6a56045bc90e03763",
  "enc": "aes-256-gcm-v1",
- "publishedAt": "2026-10-28T13:04:58Z"
+ "publishedAt": "2026-10-28T13:08:03Z"
 }
