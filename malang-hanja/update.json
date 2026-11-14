@@ -1,0 +1,17 @@
+{
+ "app": "com.jym.malanghanja",
+ "versionName": "1.0.1",
+ "versionCode": 2,
+ "date": "2026-11-14",
+ "notes": [
+  "앱 안 업데이트 시험용 버전이에요 (기능은 처음 설치한 1.0.0과 같아요)",
+  "놀이 기록·퀴즈 기록·스티커·쿠폰·설정은 그대로 남아요"
+ ],
+ "file": "MalangHanja-1.0.1.awu",
+ "size": 764823,
+ "sha256": "746dbfecec8277ad21e7f5352a98fc4c21e1a06b8973e54a4b2265dbf60570c5",
+ "apkSize": 764791,
+ "apkSha256": "d4eb3ffa9cae35456d3a2447cf052ad035fa0772eb2e90c2919c17c5da8bf20d",
+ "enc": "aes-256-gcm-v1",
+ "publishedAt": "2026-11-14T11:48:06Z"
+}
